@@ -1,0 +1,1 @@
+It generates passwords.
